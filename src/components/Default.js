@@ -14,4 +14,3 @@ const Default = () => {
 };
 
 export default Default;
-//git remote add origin https://github.com/ebunedy/react-ecommerce.git
